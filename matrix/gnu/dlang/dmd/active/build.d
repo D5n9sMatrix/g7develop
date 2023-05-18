@@ -13,4 +13,5 @@ void main(dmd, active, build)(ref dlang)
             }
         }
     }
+ return dlang;
 }
