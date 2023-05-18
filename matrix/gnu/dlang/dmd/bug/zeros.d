@@ -1,7 +1,5 @@
 module dlang.dmd.bug.zeros;
 
-import std.file : FileException, readText;
-import std.stdio : writeln;
 
 void main(readText, FileException, writeln, msg, file, line, info)
 {
